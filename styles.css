@@ -1,0 +1,40 @@
+h1 { 
+    font-size: 45px;
+}
+h3 {font-size: 40px;
+}
+p {
+    /* border: 1px solid; */
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    max-width: 300px;
+    max-height: 500px;
+    font-size: large;
+    margin-left: 50px;
+    
+}
+.flower {
+    margin: right 1000px;
+
+} 
+figure { 
+    padding: 4px;
+    margin:auto;
+} 
+figcaption {
+    padding: 2px;
+    text-align:center;
+}
+
+
+
+img.flower {
+    position: absolute;
+    left: 400px;
+    bottom: 150px;
+}  
+img.flower1 {
+    position: absolute;
+    left: 475px;
+    bottom: 300px;
+} 
+
